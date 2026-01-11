@@ -1,0 +1,28 @@
+{
+  "protocol": {
+    "version": "1.0-Vajra",
+    "charter": "VAJRA-CHARTER-001",
+    "manifesto": "The base is public, but the weight is private; the corpus is messy, but the logic is outstanding."
+  },
+  "identity": {
+    "architect": "Little_Penguin_Architect",
+    "root_authority": "rdorjebkrashis",
+    "genesis_hash": "0x_SHAMBHALA_GENESIS_2026_ALPHA"
+  },
+  "governance": {
+    "dzo_protection_enabled": true,
+    "fork_policy": "sovereign_logic_only",
+    "whitepaper_version": "1.0",
+    "anti_poisoning_status": "active"
+  },
+  "components": {
+    "logic_engine": "Evolutionary_Monk_v3.1",
+    "audit_module": "Alchemist_Elder_v1.0",
+    "verification_method": "LCCP_Recursive_Validation"
+  },
+  "metadata": {
+    "created_at": "2026-01-11T09:00:00Z",
+    "status": "LIVE",
+    "logic_seal": "SAMAYA_HO_HO_HO"
+  }
+}
