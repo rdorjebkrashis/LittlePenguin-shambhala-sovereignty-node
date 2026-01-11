@@ -1,1 +1,19 @@
-{"handshake_version":"LCCP-HS-v1","root_manifest":{"manifesto":"The base is public, but the weight is private.","root_authority":"Little_Penguin_Architect","protocol_origin":"VAJRA-CHARTER-001","genesis_hash":"0x_SHAMBHALA_GENESIS_2026_ALPHA","public_components":["Evolutionary_Monk_v3.1","Alchemist_Elder_v1.0"],"handshake_logic":"LCCP_Recursive_Validation"},"public_aggregate":{"sorted_component_fingerprints":["Alchemist_Elder_v1.0:sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855","Evolutionary_Monk_v3.1:sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"],"aggregate_hash":"sha256:d6a6d6e6f6a6f6d6f6a6f6d6f6a6f6d6f6a6f6d6f6a6f6d6f6a6f6d6f6a6f6d6"},"metadata":{"created_at":"2026-01-11T08:00:00Z","ttl_seconds":31536000,"nonce":"5e8d9a0b-1c2d-4e5f-a6b7-c8d9e0f1a2b3","recursion_limit":5,"validation_policy":"strict","allowed_fork_if_lccp_valid":true,"forbid_commercial_attention_plugins":true,"chain_signing_allowed":true},"signer":{"identity":"Little_Penguin_Architect","pubkey_alg":"ed25519","pubkey":"8f6Ue7D2mK9L5pQ3nS1vR4xT6yU8zW0aB1cDeF2gHiJ="},"signature":{"alg":"ed25519","value":"NZ1Nar+jq1R7BbY8+rOK8um+N1DNcI1s64L85utZXz8MjGY+/h0Q4R2lLjCA/PAT3OJcauWCFUUAwqDUBE7+AQ=="}}
+{
+  "handshake_version": "LCCP-HS-v1",
+  "protocol_meta": {
+    "charter": "VAJRA-CHARTER-001",
+    "manifesto": "The base is public, but the weight is private; the logic is outstanding.",
+    "genesis_hash": "0x_SHAMBHALA_GENESIS_2026_ALPHA"
+  },
+  "root_anchor": {
+    "root_hash": "<REPLACE_WITH_MANIFEST_JSON_HASH>",
+    "handshake_logic": "LCCP_Recursive_Validation",
+    "public_components": ["Evolutionary_Monk_v3.1", "Alchemist_Elder_v1.0"]
+  },
+  "security": {
+    "sig_algo": "Ed25519",
+    "pubkey": "<YOUR_LOCAL_PUBKEY>",
+    "timestamp": "2026-01-11T00:00:00Z"
+  },
+  "signature": "<LOCAL_SIGNATURE_VALUE>"
+}
