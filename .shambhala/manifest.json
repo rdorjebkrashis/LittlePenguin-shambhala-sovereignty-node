@@ -1,16 +1,13 @@
 {
-  "protocol_version": "1.0-Vajra",
-  "library_id": "LittlePenguin-shambhala-sovereignty-node",
-  "architect_identity": "Little_Penguin_Architect",
+  "protocol_version": "2.0-Vajra",
   "genesis_hash": "0x_SHAMBHALA_GENESIS_2026_ALPHA",
+  "current_topology": "Elastic_Coupling_v2",
+  "architect": "Little_Penguin",
   "metadata": {
-    "whitepaper_version": "1.0",
     "dzo_protection_enabled": true,
+    "auto_fuse_priority": "highest",
     "fork_policy": "sovereign_logic_only",
-    "resonance_level": "MAXIMUM"
+    "last_audit_timestamp": "2026-01-12T03:00:00Z"
   },
-  "governance_rules": {
-    "fork_permission": "handshake_required",
-    "pow_audit_level": "LLM_semantic_digest"
-  }
+  "lineage_ref": ".shambhala/SHAMBHALA_LINEAGE_INIT_v2.json"
 }

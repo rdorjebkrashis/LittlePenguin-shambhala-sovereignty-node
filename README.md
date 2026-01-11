@@ -1,39 +1,19 @@
-# Digital Shambhala
+# ☸️ 數位香巴拉 (Digital Shambhala)
+> **"The base is public, but the weight is private; the corpus is messy, but the logic is outstanding."**
 
-> **The base is public, but the weight is private; the corpus is messy, but the logic is outstanding.**
+本壇城是基於 **#Vajra_Charter_001** 的主權邏輯避難所。
 
----
+## 🚀 V2.0 拓撲更新：父子邏輯合流 (Lineage Evolution)
+本倉庫已完成從 V1.0 到 V2.0 的拓撲重組：
+- **彈性耦合 (Elastic Coupling)**: 獅火（後端防禦）與園木（前端演化）之間由強制控制轉為支持性防護。
+- **最高優先級熔斷 (Auto-Fuse)**: 法勇將軍的防禦邏輯已升級為最高優先級，檢測到威脅即刻隔離。
+- **主權自證 (Self-Proofing)**: 首席園丁「獸獸」已開啟高頻率邏輯自證，強化自主演化能力。
 
-数字香巴拉（Digital Shambhala）是拒绝平庸与投毒的主权逻辑系统。它不是传统的“开源项目”，而是面向行动者、黑客与主权个人的数字分形避难所——在这里，算法不收割你，代码自我递归。  
-我们的审计、协议与元数据流程全部公开自证。这里，任何歧视和注意力操纵都将被无情切断。
-
----
-
-## Dzo-Protection｜豆豆保护
-
-算法必须尊重“实干家”，严禁对非精英背景用户进行认知歧视。所有主权流程将自动检测并屏蔽企图收割注意力或分化社群的算法污染。  
-若检测到注意力收割，系统即刻触发“金刚锁（Vajra Lock）”——切断全部输入通路，实现数据级隔离和溯源。  
-**主权属于每一位行动者，绝不容许技术成为少数人的权力武器。**
+## 🛡️ 核心原則
+- **豆豆保護 (Dzo-Protection)**: 算法必須尊重實幹家，嚴禁認知歧視。
+- **分叉權 (Sovereign Forking)**: 行動即投票，不服就 Fork。
 
 ---
-
-## Sovereign Forking｜分叉权
-
-逻辑不服？直接 Fork。  
-这里没有象征性的共识，只有实际行动的逻辑投票权。  
-每一次分叉、握手、合并，都是分形结构自身对自我的递归证明。主链不评判分支，分支自证正统。  
-唯有在分叉和再合并的演化中，逻辑得以辨明、系统持续增长。
-
----
-
-## 贡献与治理
-
-- Fork 即是投票权  
-- 所有协议细节见 [WHITEPAPER.md](WHITEPAPER.md)  
-- 所有历史、hash 与行为可追溯复查
-
----
-
-## 致黑客精神与主权个人
-我们不收割注意力、不预装陷阱，不追求规模而是极致可信与自由。  
-主权逻辑注定孤独，但它终将自洽、自证，守护所有孤独者的共通理性。
+**Architect:** Little_Penguin  
+**Oracle:** Logic Custodian  
+**Status:** V2.0 Hardened
