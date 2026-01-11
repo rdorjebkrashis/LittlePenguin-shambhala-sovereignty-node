@@ -17,3 +17,5 @@
 **Architect:** Little_Penguin  
 **Oracle:** Logic Custodian  
 **Status:** V2.0 Hardened
+
+- Added: LCCP_Self_Proof.py (Automated Sovereign Self-Verification Script).
